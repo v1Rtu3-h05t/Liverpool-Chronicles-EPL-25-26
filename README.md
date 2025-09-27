@@ -1,7 +1,7 @@
 # Liverpool-Chronicles-EPL-25-26
 A living archive of Liverpool goals and match results.
 
-As a Liverpool supporter and fan, I used my love for futbol to fuel my journey into programming.  
+As a Liverpool ⚽ supporter and fan, I used my love for futbol to fuel my journey into programming.  
 This archive is more than code—it's a digital shrine to the 2025/26 season, built to grow with every match.
 
 📦 Features
