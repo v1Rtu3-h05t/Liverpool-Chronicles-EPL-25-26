@@ -27,4 +27,12 @@ This archive is more than code it's a digital shrine to the 2025/26 season, buil
 
 ---
 
+## 📸 Example Output
+
+<p align="center">
+  <img src="assets/lpavg.png" width="45%" />
+  <img src="assets/Lvgoals.png" width="45%" />
+</p>
+
+
 I would love to see others use this to make something similar with their favorite sports teams. 
