@@ -9,7 +9,8 @@ Liverpool_goals = {
     "Ryan Gravenberch": ["35' VS Newcastle"],
     "Rio Ngumoha": ["90+10' VS Newcastle"],
     "Dominik Szoboszlai": ["83' VS Arsenal"],
-    "Milos Kerkez": ["45'+5' VS Brentford"]
+    "Milos Kerkez": ["45'+5' VS Brentford"],
+    "Alexander Isak": ["60' VS West Ham United"]
 }
 
 # Update Below this line
@@ -22,6 +23,7 @@ Liverpool_goals["Cody Gakpo"].append("78' VS Manchester United")
 Liverpool_goals["Mohamed Salah"].append("89' VS Brentford")
 Liverpool_goals["Mohamed Salah"].append("45+1' VS Aston Villa")
 Liverpool_goals["Ryan Gravenberch"].append("58' VS Aston Villa")
+Liverpool_goals["Cody Gakpo"].append("90+2' VS West Ham United")
 
 # 📅 Store Liverpool Match Results
 Liverpool_results = {
@@ -35,7 +37,9 @@ Liverpool_results = {
     "Manchester United": "1-2 Loss",
     "Brentford": "3-2 Loss",
     "Aston Villa": "2-0 Win",
-    "Manchester City": "3-0 Loss"
+    "Manchester City": "3-0 Loss",
+    "Nottingham Forest": "3-0 Loss",
+    "West Ham United": "2-0 Win"
 }
 
 # 📊 Print current goal list for each player
